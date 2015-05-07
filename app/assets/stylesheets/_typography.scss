@@ -33,11 +33,6 @@ a {
   &:hover {
     color: darken($action-color, 15%);
   }
-
-  &:active,
-  &:focus {
-    outline: none;
-  }
 }
 
 hr {
